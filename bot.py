@@ -1,8 +1,6 @@
-from twitter.twitter_client import send_tweet
+from api.tennis_api import get_live_matches
+from api.match_parser import parse_matches
 
-message = "🎾 WTA Twitter Bot is now live."
+data = get_live_matches()
 
-response = send_tweet(message)
-
-print("Tweet sent successfully!")
-print(response)
+parse_matches(data)
