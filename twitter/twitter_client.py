@@ -1,7 +1,4 @@
 import tweepy
-import sys, os
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-
 from config import (
     API_KEY,
     API_SECRET,
@@ -16,6 +13,13 @@ client = tweepy.Client(
     access_token_secret=ACCESS_TOKEN_SECRET
 )
 
+
 def send_tweet(message):
-    response = client.create_tweet(text=message)
-    return response
+
+    try:
+        response = client.create_tweet(text=message)
+        return response
+
+    except Exception as e:
+        print("Tweet error:", e)
+        return None
