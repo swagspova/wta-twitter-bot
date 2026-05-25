@@ -270,7 +270,8 @@ def parse_matches(data):
                     tweet = format_set_update(
                         player1,
                         player2,
-                        formatted_set_score
+                        formatted_set_score,
+                        tournament
                     )
 
                     response = send_tweet(

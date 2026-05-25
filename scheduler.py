@@ -4,6 +4,7 @@ from datetime import datetime
 
 from api.tennis_api import get_live_matches
 from api.match_parser import parse_matches
+from utils.logger import logger
 
 
 def job():
@@ -21,14 +22,16 @@ def job():
 
     except Exception as e:
 
-        print("ERROR:", e)
+        logger.error(e)
 
 
 scheduler = BlockingScheduler()
 
 scheduler.add_job(job, "interval", seconds=60)
 
-print("🎾 WTA Monitoring Bot Started")
+logger.info(
+    "Checking live WTA matches"
+)
 
 job()
 

@@ -1,0 +1,66 @@
+2026-05-25 16:57:51,428 INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-25 16:57:51,428 INFO Checking live WTA matches
+2026-05-25 16:57:57,484 INFO Added job "job" to job store "default"
+2026-05-25 16:57:57,484 INFO Scheduler started
+2026-05-25 16:58:51,434 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 16:58:51 IST)" (scheduled at 2026-05-25 16:58:51.428716+05:30)
+2026-05-25 16:58:55,613 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 16:59:51 IST)" executed successfully
+2026-05-25 16:59:51,434 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:00:51 IST)" (scheduled at 2026-05-25 16:59:51.428716+05:30)
+2026-05-25 16:59:55,721 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:00:51 IST)" executed successfully
+2026-05-25 17:00:51,434 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:01:51 IST)" (scheduled at 2026-05-25 17:00:51.428716+05:30)
+2026-05-25 17:00:55,718 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:01:51 IST)" executed successfully
+2026-05-25 17:01:51,432 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:02:51 IST)" (scheduled at 2026-05-25 17:01:51.428716+05:30)
+2026-05-25 17:01:56,038 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:02:51 IST)" executed successfully
+2026-05-25 17:06:10,682 INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-25 17:06:10,682 INFO Checking live WTA matches
+2026-05-25 17:06:16,440 INFO Added job "job" to job store "default"
+2026-05-25 17:06:16,440 INFO Scheduler started
+2026-05-25 17:07:10,688 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:07:10 IST)" (scheduled at 2026-05-25 17:07:10.682462+05:30)
+2026-05-25 17:07:14,916 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:08:10 IST)" executed successfully
+2026-05-25 17:08:10,685 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:09:10 IST)" (scheduled at 2026-05-25 17:08:10.682462+05:30)
+2026-05-25 17:08:15,567 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:09:10 IST)" executed successfully
+2026-05-25 17:09:10,683 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:10:10 IST)" (scheduled at 2026-05-25 17:09:10.682462+05:30)
+2026-05-25 17:09:15,251 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:10:10 IST)" executed successfully
+2026-05-25 17:10:10,688 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:11:10 IST)" (scheduled at 2026-05-25 17:10:10.682462+05:30)
+2026-05-25 17:10:15,891 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:11:10 IST)" executed successfully
+2026-05-25 17:11:10,688 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:12:10 IST)" (scheduled at 2026-05-25 17:11:10.682462+05:30)
+2026-05-25 17:11:16,271 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:12:10 IST)" executed successfully
+2026-05-25 17:12:10,688 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:13:10 IST)" (scheduled at 2026-05-25 17:12:10.682462+05:30)
+2026-05-25 17:12:16,908 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:13:10 IST)" executed successfully
+2026-05-25 17:13:10,688 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:14:10 IST)" (scheduled at 2026-05-25 17:13:10.682462+05:30)
+2026-05-25 17:13:16,280 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:14:10 IST)" executed successfully
+2026-05-25 17:14:10,686 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:15:10 IST)" (scheduled at 2026-05-25 17:14:10.682462+05:30)
+2026-05-25 17:14:16,514 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:15:10 IST)" executed successfully
+2026-05-25 17:15:10,688 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:16:10 IST)" (scheduled at 2026-05-25 17:15:10.682462+05:30)
+2026-05-25 17:15:16,250 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:16:10 IST)" executed successfully
+2026-05-25 17:16:10,688 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:17:10 IST)" (scheduled at 2026-05-25 17:16:10.682462+05:30)
+2026-05-25 17:16:15,971 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:17:10 IST)" executed successfully
+2026-05-25 17:17:10,692 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:18:10 IST)" (scheduled at 2026-05-25 17:17:10.682462+05:30)
+2026-05-25 17:17:16,417 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:18:10 IST)" executed successfully
+2026-05-25 17:27:11,807 INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-25 17:27:11,807 INFO Checking live WTA matches
+2026-05-25 17:27:18,882 INFO Added job "job" to job store "default"
+2026-05-25 17:27:18,883 INFO Scheduler started
+2026-05-25 17:28:11,812 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:28:11 IST)" (scheduled at 2026-05-25 17:28:11.807175+05:30)
+2026-05-25 17:28:17,393 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:29:11 IST)" executed successfully
+2026-05-25 17:29:11,808 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:30:11 IST)" (scheduled at 2026-05-25 17:29:11.807175+05:30)
+2026-05-25 17:29:18,780 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:30:11 IST)" executed successfully
+2026-05-25 17:30:11,808 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:31:11 IST)" (scheduled at 2026-05-25 17:30:11.807175+05:30)
+2026-05-25 17:30:16,987 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:31:11 IST)" executed successfully
+2026-05-25 17:31:11,813 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:32:11 IST)" (scheduled at 2026-05-25 17:31:11.807175+05:30)
+2026-05-25 17:31:17,310 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:32:11 IST)" executed successfully
+2026-05-25 17:32:11,812 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:33:11 IST)" (scheduled at 2026-05-25 17:32:11.807175+05:30)
+2026-05-25 17:32:17,463 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:33:11 IST)" executed successfully
+2026-05-25 17:33:11,812 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:34:11 IST)" (scheduled at 2026-05-25 17:33:11.807175+05:30)
+2026-05-25 17:33:17,508 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:34:11 IST)" executed successfully
+2026-05-25 17:34:11,808 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:35:11 IST)" (scheduled at 2026-05-25 17:34:11.807175+05:30)
+2026-05-25 17:34:17,299 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:35:11 IST)" executed successfully
+2026-05-25 17:35:11,807 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:36:11 IST)" (scheduled at 2026-05-25 17:35:11.807175+05:30)
+2026-05-25 17:35:19,535 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:36:11 IST)" executed successfully
+2026-05-25 17:36:11,813 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:37:11 IST)" (scheduled at 2026-05-25 17:36:11.807175+05:30)
+2026-05-25 17:36:18,484 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:37:11 IST)" executed successfully
+2026-05-25 17:37:11,812 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:38:11 IST)" (scheduled at 2026-05-25 17:37:11.807175+05:30)
+2026-05-25 17:37:18,609 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:38:11 IST)" executed successfully
+2026-05-25 17:38:11,812 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:39:11 IST)" (scheduled at 2026-05-25 17:38:11.807175+05:30)
+2026-05-25 17:38:55,180 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:39:11 IST)" executed successfully
+2026-05-25 17:39:11,812 INFO Running job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:40:11 IST)" (scheduled at 2026-05-25 17:39:11.807175+05:30)
+2026-05-25 17:39:18,602 INFO Job "job (trigger: interval[0:01:00], next run at: 2026-05-25 17:40:11 IST)" executed successfully
